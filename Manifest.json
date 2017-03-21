@@ -1,0 +1,13 @@
+{
+	"browser_action": {
+		"default_icon": "/images/icon.png",
+		"default_popup": "html/popup.html"
+	},
+	"description": "URL Encoder Decoder - Alexandre LEGUAY",
+	"manifest_version": 2,
+	"name": "urlED",
+	"permissions": [
+        "activeTab"
+    ],
+	"version": "1.0"
+}
